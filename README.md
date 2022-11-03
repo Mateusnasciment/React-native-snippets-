@@ -1,7 +1,5 @@
-# React-native-snippets-
-# Snippets
+# React-native-snippets
 
-## Snippets info
 
 Every space inside `{ }` and `( )` means that this is pushed into next line :)
 `$` represent each step after `tab`.
